@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Vivian </h1> 
-
+<br/>
+<br/>
 <p align="center">🎉🎉🎉 Welcome to my page! 🎉🎉🎉</p>
-<p align="center">I am a new Computer Science graduate with a Master's degree and actively seeking full-time or internship positions in roles such as Full Stack Web Developer, Frontend web developer, Software Engineer...</p>
+<p align="center">I recently graduated with a Master's degree in Computer Science and am actively seeking opportunities for full-time or internship positions. I am interested in roles as a <strong>Full Stack Web Developer</strong>, <strong>Frontend Web Developer</strong>, <strong>Software Engineer</strong>, and similar positions.</p>
+<div align="center" width="50">
+<image  src="https://github.com/vivian0420/vivian0420/blob/main/images/dev-women.gif" alt="dev-women"  width="60%"/>
+</div>
 <hr/>
 <h3>Things I code with</h3>
 <p align="left"> 
@@ -24,13 +28,13 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><br/>
 
 
-- 🔭 I’m currently looking for my first full-time job
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>⚡️ A Few Quick Facts</h2>
+<ur>
+  <li>🔭 I’m currently looking for my first full-time job</li>
+  <li>🌱 I’m currently learning AWS</li>
+  <li>📫 How to reach me <a href="https://www.linkedin.com/in/jiayun-zhang-b248391a2/">My Linkedin</a>
+  <li>🎉 Fun Fact: 我的母语是闽南语，我会讲中文, 我懂粤语</li>
+</ur>
+
 
 
