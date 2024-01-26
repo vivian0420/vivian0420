@@ -6,6 +6,7 @@
 <div align="center" width="50">
 <image  src="https://github.com/vivian0420/vivian0420/blob/main/images/dev-women.gif" alt="dev-women"  width="60%"/>
 </div>
+<p align="center">✌️Coding makes me feel accomplished and creative✌️</p>
 <hr/>
 <h3>Things I code with</h3>
 <p align="left"> 
@@ -30,7 +31,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ur>
-  <li>🔭 I’m currently looking for my first full-time job</li>
+  <li>🔭 I’m currently looking for a job</li>
   <li>🌱 I’m currently learning AWS</li>
   <li>📫 How to reach me <a href="https://www.linkedin.com/in/jiayun-zhang-b248391a2/">My Linkedin</a>
   <li>🎉 Fun Fact: 我的母语是闽南语，我会讲中文, 我懂粤语</li>
